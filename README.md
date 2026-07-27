@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Ahriez B. Ponce! 👋
+# Hi there, I'm Ahriez B. Ponce Jr. 👋
 I am an IT student at STI Bacoor, passionate about the IT industry and game development.
 I am interested in problem-solving and creating the best visuals for my master's or Bossing.
 
