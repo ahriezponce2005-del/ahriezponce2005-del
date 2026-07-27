@@ -15,28 +15,35 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Ahriez B. Ponce Jr. 👋
 I am an IT student at STI Bacoor, passionate about the IT industry and game development.
-I am interested in problem-solving and creating the best visuals for my master's or Bossing.
+I am interested in problem-solving and creating the best visuals for my master's and Bossing.
 
-### 🤔 My Learning 
+---
+
+## 🤔 My Learning 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
-  - CSS 🖼️ `h1 { background-color: black; }`
+  - CSS 🎨 `h1 { background-color: black; }`
   - Java ☕ `System.out.println(Hello, World!);`
 - **My work table IDE:**
-  - VS Code `for everything.`
-  - NetBeans `for Java use in school.`
+  - VS Code 🟦 `for everything.`
+  - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
 
-### 👨‍💻 Goal
+---
+
+## 📌 Goal
 1. My goal is to enhance my problem-solving and logical skills.
 2. Create something useful for everyone and create fun games.
 3. Learn all IT skills that I can use for my future, like jobs.
 
-### 📬 Contact
-- **Gmail:** ahriez.ponce2005@gmail.com
+---
+
+## 📬 Contact
+- **Gmail:**
+    - ahriez.ponce2005@gmail.com
 
 ---
 
-# WORK LANGUAGES
+## WORK LANGUAGES:
 
 ```HTML
 <!DOCSTYPE html>
@@ -57,7 +64,8 @@ body {
 
   display: flex;
   justify-content: center;
-  align-item: center; 
+  align-item: center;
+  height: 100dvb; 
 }
 ```
 ```Java
