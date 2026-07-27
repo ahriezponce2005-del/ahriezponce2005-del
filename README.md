@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ahriezponce2005-del/ahriezponce2005-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Ahriez B. Ponce! 👋
+I am an IT student at STI Bacoor, passionate about the IT industry and game development.
+I am interested in problem-solving and creating the best visuals for my master's or Bossing.
+
+### 🤔 My Learning 
+- **Languages:**
+  - HTML 🦴 `<h1>Hello, World!<h1>`
+  - CSS 🖼️ `h1 { background-color: black; }`
+  - Java ☕ `System.out.println(Hello, World!);`
+- **My work table IDE:**
+  - VS Code `for everything.`
+  - NetBeans `for Java use in school.`
+
+### 👨‍💻 Goal
+My goal is to enhance my problem-solving and logical skills.
+Create something useful for everyone and create fun games.
+
+### 📬 Contact
+- **Gmail:** ahriez.ponce2005@gmail.com
+
+### 🤓 My Face Every Day
