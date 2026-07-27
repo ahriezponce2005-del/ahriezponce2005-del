@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Ahriez B. Ponce Jr. 👋
-I am an IT student at STI Bacoor, passionate about the IT industry and game development.
-I am interested in problem-solving and creating the best visuals for my master's and Bossing.
+<h1 align="center">Hi there, I'm ARJAY 👋</h1>
+I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.
 
----
-
-## 🤔 My Learning 
+### 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
   - CSS 🎨 `h1 { background-color: black; }`
@@ -28,28 +25,19 @@ I am interested in problem-solving and creating the best visuals for my master's
   - VS Code 🟦 `for everything.`
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
 
----
 
-## 📌 Goal
-1. My goal is to enhance my problem-solving and logical skills.
-2. Create something useful for everyone and create fun games.
-3. Learn all IT skills that I can use for my future, like jobs.
+### 📌 Goal!
+  1. My goal is to enhance my problem-solving and logical skills.
+  2. Create something useful for everyone and create fun games.
+  3. Learn all IT skills that I can use for my future, like jobs.
 
----
-
-## 👦 About Me:
-I am handsome, by the way.
-
----
-## 📬 Contact
+### 📬 Contact!
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
 
----
+<h1 align="center">WORK LANGUAGES BASICs:</h1>
 
-## WORK LANGUAGES:
-
-```HTML
+``` HTML
 <!DOCSTYPE html>
 <html>
   <head>
@@ -61,10 +49,12 @@ I am handsome, by the way.
   </body>
 </html>
 ```
-```CSS
+``` CSS
 body {
   background-color: black;
   color: green;
+  font-size: 12px;
+  font-family: monospace;
 
   display: flex;
   justify-content: center;
@@ -72,7 +62,7 @@ body {
   height: 100dvb; 
 }
 ```
-```Java
+``` Java
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello, World!");
