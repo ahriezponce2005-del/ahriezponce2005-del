@@ -37,6 +37,10 @@ I am interested in problem-solving and creating the best visuals for my master's
 
 ---
 
+## 👦 About Me:
+I am handsome, by the way.
+
+---
 ## 📬 Contact
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
