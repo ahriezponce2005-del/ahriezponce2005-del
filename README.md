@@ -34,4 +34,36 @@ I am interested in problem-solving and creating the best visuals for my master's
 ### 📬 Contact
 - **Gmail:** ahriez.ponce2005@gmail.com
 
-### 🤓 My Face Every Day
+---
+
+# WORK LANGUAGES
+
+```HTML
+<!DOCSTYPE html>
+<html>
+  <head>
+      <title>Hello,World</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p>Hello, world!</p>
+  </body>
+</html>
+```
+```CSS
+body {
+  background-color: black;
+  color: green;
+
+  display: flex;
+  justify-content: center;
+  align-item: center; 
+}
+```
+```Java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
