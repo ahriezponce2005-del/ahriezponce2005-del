@@ -29,7 +29,7 @@ I am interested in problem-solving and creating the best visuals for my master's
 ### 👨‍💻 Goal
 1. My goal is to enhance my problem-solving and logical skills.
 2. Create something useful for everyone and create fun games.
-3. Learn all IT skills that I can use for my future.
+3. Learn all IT skills that I can use for my future, like jobs.
 
 ### 📬 Contact
 - **Gmail:** ahriez.ponce2005@gmail.com
