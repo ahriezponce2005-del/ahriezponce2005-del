@@ -27,8 +27,9 @@ I am interested in problem-solving and creating the best visuals for my master's
   - NetBeans `for Java use in school.`
 
 ### 👨‍💻 Goal
-My goal is to enhance my problem-solving and logical skills.
-Create something useful for everyone and create fun games.
+1. My goal is to enhance my problem-solving and logical skills.
+2. Create something useful for everyone and create fun games.
+3. Learn all IT skills that I can use for my future.
 
 ### 📬 Contact
 - **Gmail:** ahriez.ponce2005@gmail.com
