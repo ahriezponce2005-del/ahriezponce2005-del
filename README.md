@@ -35,3 +35,13 @@ Here are some ideas to get you started:
 ### 📬 Contact!
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
+ 
+---
+
+```Java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
