@@ -14,58 +14,24 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm ARJAY 👋</h1>
-I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.
+<p align = "center">I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.</p>
 
-### 🤔 Learning! 
+# 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
   - CSS 🎨 `h1 { background-color: black; }`
+  - JavaScript ⚡`console.log("Hello, World!");`
   - Java ☕ `System.out.println(Hello, World!);`
-- **My work table IDE:**
+
+- **My Table || IDE:**
   - VS Code 🟦 `for everything.`
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
 
-
-### 📌 Goal!
+# 📌 Goal!
   1. My goal is to enhance my problem-solving and logical skills.
   2. Create something useful for everyone and create fun games.
   3. Learn all IT skills that I can use for my future, like jobs.
 
-### 📬 Contact!
+# 📬 Contact!
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
-
-<h1 align="center">WORK LANGUAGES BASICs:</h1>
-
-``` HTML
-<!DOCSTYPE html>
-<html>
-  <head>
-      <title>Hello,World</title>
-  </head>
-  <body>
-    <h1>Hello, World!</h1>
-    <p>Hello, world!</p>
-  </body>
-</html>
-```
-``` CSS
-body {
-  background-color: black;
-  color: green;
-  font-size: 12px;
-  font-family: monospace;
-
-  display: flex;
-  justify-content: center;
-  align-item: center;
-  height: 100dvb; 
-}
-```
-``` Java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello, World!");
-  }
-}
-```
