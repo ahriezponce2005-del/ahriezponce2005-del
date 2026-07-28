@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm ARJAY 👋</h1>
+<h3 align="center">Hi there, I'm ARJAY 👋</h3>
 <p align = "center">I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.</p>
 
-# 🤔 Learning! 
+### 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
   - CSS 🎨 `h1 { background-color: black; }`
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   - VS Code 🟦 `for everything.`
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
 
-# 📌 Goal!
+### 📌 Goal!
   1. My goal is to enhance my problem-solving and logical skills.
   2. Create something useful for everyone and create fun games.
   3. Learn all IT skills that I can use for my future.
 
-# 📬 Contact!
+### 📬 Contact!
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
