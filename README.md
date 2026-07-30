@@ -38,10 +38,14 @@ Here are some ideas to get you started:
  
 ---
 
-```Java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello, World!");
-  }
-}
+<h1 align="center">- HOW TO CENTER THE BOXES -</h1>
+
+```CSS
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 100dvb;
+        gap: 2px;
 ```
