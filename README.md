@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - CSS 🎨 `h1 { background-color: black; }`
   - JavaScript ⚡`console.log("Hello, World!");`
   - Java ☕ `System.out.println(Hello, World!);`
-
+    
 - **My Table || IDE:**
   - VS Code 🟦 `for everything.`
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">- HOW TO CENTER THE BOXES -</h1>
 
+**USING FLEX:**
 ```CSS
         display: flex;
         flex-wrap: wrap;
