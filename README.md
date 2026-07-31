@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ### 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
-  - CSS 🎨 `h1 { background-color: black; }`
+  - CSS 🎨 `body { background-color: black;  color: white; }`
   - JavaScript ⚡`console.log("Hello, World!");`
-  - Java ☕ `System.out.println(Hello, World!);`
+  - Java ☕ `System.out.println("Hello, World!");`
     
 - **My Table || IDE:**
   - VS Code 🟦 `for everything.`
