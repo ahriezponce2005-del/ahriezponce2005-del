@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
 
 ### 📌 Goal!
-   - My goal is to enhance my problem-solving and logical skills.
+   - To enhance my problem-solving and logical skills.
    - Create something useful for everyone and create fun games.
    - Learn all IT skills that I can use for my future.
 
