@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there, I'm ARJAY 👋</h2>
-<p align = "center">I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.</p>
+<h1 align="center">Hi there, I'm ARJAY 👋</h1>
+<p align= "center">I am an IT student, passionate about the IT industry, game development, front-end, and back-end development.</p>
 
 ### 🤔 Learning! 
 - **Languages:**
