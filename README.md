@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm ARJAY 👋</h1>
 <p align= "center">I am an IT student, passionate about the IT industry, game developer, front-end, and back-end developer. I am still a beginner at using the languages.</p>
 
+### 📬 Contact!
+- **Gmail:**
+    - ahriez.ponce2005@gmail.com
+
 ### 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
   - CSS 🎨 `h1 { background-color: black;  color: white; }`
   - JavaScript ⚡`console.log("Hello, World!");`
   - Java ☕ `System.out.println("Hello, World!");`
-    
 - **My Table || IDE:**
   - VS Code 🟦 `for everything.`
   - NetBeans 🟥🟩⬜🟦 `for Java use in school.`
@@ -32,21 +35,4 @@ Here are some ideas to get you started:
    - Create something useful for everyone and create fun games.
    - Learn all IT skills that I can use for my future.
 
-### 📬 Contact!
-- **Gmail:**
-    - ahriez.ponce2005@gmail.com
- 
 ---
-
-<h1 align="center">- HOW TO CENTER THE BOXES -</h1>
-
-**USING FLEX:**
-```CSS
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        height: 100dvb;
-        gap: 2px;
-```
