@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🤔 Learning! 
 - **Languages:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
-  - CSS 🎨 `body { background-color: black;  color: white; }`
+  - CSS 🎨 `h1 { background-color: black;  color: white; }`
   - JavaScript ⚡`console.log("Hello, World!");`
   - Java ☕ `System.out.println("Hello, World!");`
     
