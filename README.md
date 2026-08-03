@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 ### 📬 Contact!
 - **Gmail:**
     - ahriez.ponce2005@gmail.com
-
----
