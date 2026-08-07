@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <p align= "center"><b>I am an IT student</b>, passionate about the IT industry, game developer, front-end, and back-end developer. I'm still learning about the languages.</p>
 
 ### 🤔 Learning! 
-- **Languages:**
+- **Front-end:**
   - HTML 🦴 `<h1>Hello, World!<h1>`
   - CSS 🎨 `h1 { background-color: black;  color: white; }`
+- **Back-end:**
   - Java ☕ `System.out.println("Hello, World!");`
 - **My Table || IDE:**
   - VS Code 🟦 `for everything.`
