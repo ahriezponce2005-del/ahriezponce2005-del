@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm ARJAY 👋</h1>
-<p align= "center"><b>I am an IT student</b>, passionate about the IT industry, game developer, front-end, and back-end developer. I'm still learning about the languages.</p>
+<p align= "center"><b>I am an IT student</b>, passionate about the IT industry, game developer, front-end, and back-end developer. I'm still learning the languages and am still a beginner.</p>
 
 ### 🤔 Learning! 
 - **Front-end:**
